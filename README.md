@@ -1,3 +1,1 @@
-Hi! 
-
-Welcome to the vending machine!
+Welcome to the vending machine
